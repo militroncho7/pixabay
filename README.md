@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+![The Simpson](https://res.cloudinary.com/dhd9jgrw3/image/upload/v1611749228/proyectos/Breaking%20Bad/logo-simpsons_ygqqfl.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Las mejores frases de Los Simpsons
 
-## Available Scripts
+Porque nunca sabes cuando vas a necesitar una buena frase... ¡Aquí tienes una app que te ayuda a tener siempre la mejor frase de tu serie favorita en cualquier momento!
 
-In the project directory, you can run:
+[The Simpsons 📺](https://tender-curie-6812b3.netlify.app/).
 
-### `npm start`
+## Sitio Web
+---
+- Totalmente Responsive:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![Responsive1](https://res.cloudinary.com/dhd9jgrw3/image/upload/v1611749199/proyectos/Breaking%20Bad/iphone_2_j3mjsy.png)
+![Responsive2](https://res.cloudinary.com/dhd9jgrw3/image/upload/v1611749199/proyectos/Breaking%20Bad/iphone_1_lf4fuy.png)
+---
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+App realizada mediante la libería React.js.
 
-### `npm test`
+- Creada con componentes funcionales
+- Manenjando los diferentes estados en los inputs (Hook useState)
+- Consultas mediante endpoints en la API ( URLs que responden a una petición)
+- Utilización de hook useEffect y sus dependecias para consultas a la API
+- Trabajada con Styled-Components
+- Carga condicional de componenetes en función del componente que tiene que aparecer
+- Documentando con PropTypes
+- Deployment del proyecto (netlify)
+- Buenas prácticas en el código
+- Trabajo en GitHub mediante ramas y commits
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
+![Sitio web](https://res.cloudinary.com/dhd9jgrw3/image/upload/v1611749203/proyectos/Breaking%20Bad/screencapture-localhost-3000-2021-01-27-12_55_57_jrvwhv.png)
+---
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Cómo contribuir
+---
+Toda aportación o comentario será recibido de buen gusto, ya que con ellos se podrá ayudar a crecer tanto a la app como a nosotros como desarrolladores.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Cualquier mejora será incluida tras una previa revisión a través de un “pull requests”.
 
-### `npm run eject`
+Se requiere un código ordenado y comentado.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Autor
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![VR-Logo](https://res.cloudinary.com/dhd9jgrw3/image/upload/v1610528741/Logos%20VR/logo-vr_cmhmpa.jpg) || [Víctor Ruiz](https://www.linkedin.com/in/victormmorales/)
